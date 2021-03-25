@@ -1,6 +1,6 @@
 # Budget Tracker
 
-<img src = "https://img.shields.io/badge/License--red">
+<img src ='/public/icons/screenshot.png' height = 450px>
 
 ## Description
 
@@ -9,21 +9,12 @@ This app allows users to enter items into a budgeting system that tracks expendi
 
 ## Table of Contents
 
-- [Installation](#installation)<br>
 - [Usage](#usage)<br>
-- [Contributing](#contributing)<br>
-- [Tests](#tests)<br>
 - [Questions](#questions)
-
-## Installation
-
-a
 
 ## Usage
 
-a
-
-<img src ='/public/icons/screenshot.png' height = 300px>
+Just type the name of your transaction, how much money it was, and whether it was a positive or negative transaction, and the graph will display your budget over time!
 
 ## Questions
 
